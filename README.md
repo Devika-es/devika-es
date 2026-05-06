@@ -1,93 +1,78 @@
-<h1 align="center">Hi 👋, I'm Devika</h1>
-<h3 align="center">Passionate Developer | Building cool things one commit at a time 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devika-es&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=200&section=header&text=Devika&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20.NET%20Developer&descAlignY=60&descSize=20" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Devika-es&color=7c6af7&style=flat-square)](https://github.com/Devika-es)
+
+### 🤖 Building intelligent systems · 🧠 Deep Learning · ⚡ .NET
+
+</div>
 
 ---
 
-## 🙋‍♀️ About Me
+## 🧬 About Me
 
-- 🔭 Currently working on **AI & ML Projects | .NET Development**
-- 🌱 Currently learning **Advanced Deep Learning & Cloud Technologies**
-- 💬 Ask me about **Machine Learning, AI, Python, C#, .NET, Data Science**
-- 📫 Reach me on **[GitHub](https://github.com/Devika-es)**
-- ⚡ Fun fact: **Passionate about AI-powered solutions and building intelligent systems that solve real-world problems!**
+```python
+devika = {
+    "building"  : ["AI/ML Projects", ".NET Enterprise Apps"],
+    "learning"  : ["Advanced Deep Learning", "Cloud Technologies"],
+    "expertise" : ["Python", "C#", "TensorFlow", "Flask", "SQL"],
+    "fun_fact"  : "Passionate about AI that solves real-world problems 🚀"
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-0a0a0f?style=for-the-badge&logo=csharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/.NET-0a0a0f?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Java](https://img.shields.io/badge/Java-0a0a0f?style=for-the-badge&logo=java&logoColor=ED8B00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Flask](https://img.shields.io/badge/Flask-0a0a0f?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [AI-Based Interview Question Generator](https://github.com/Devika-es/AI-Based-Interview-Question-Generator)
-> Built an AI-powered interview question generator using Flask and Hugging Face's MBZUAI/LaMini-Flan-T5-783M model for real-time, job-specific question creation
-- Tech used: Flask, Python, Hugging Face Transformers, HTML
-
-### 🔹 [Bird Species Identification](https://github.com/Devika-es/Bird-species-identification)
-> Built a deep learning model using transfer learning with MobileNetV2 to classify 200 bird species from the CUB-200-2011 dataset
-- Tech used: Python, TensorFlow, Deep Learning, Transfer Learning
-
-### 🔹 [GAN Text-to-Image Synthesis](https://github.com/Devika-es/GAN-text-to-image-synthesis)
-> Developed a text-to-image synthesis model that converts descriptive textual data into facial images using Generative Adversarial Networks (GANs)
-- Tech used: Python, GANs, NLP, Deep Learning
-
-### 🔹 [HRMS Project](https://github.com/Devika-es/HRMS)
-> Human Resource Management System built with enterprise-level architecture
-- Tech used: C#, .NET, SQL
-
-### 🔹 [Diabetes Prediction Model](https://github.com/Devika-es/Diabetes-Prediction-Model)
-> Machine learning model for diabetes prediction using algorithms like Random Forest and Polynomial Regression achieving R² scores up to 0.97
-- Tech used: Python, Machine Learning, Data Science
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🤖 AI Interview Generator](https://github.com/Devika-es/AI-Based-Interview-Question-Generator) | Real-time job-specific questions using LaMini-Flan-T5 | `Flask` `Transformers` `Python` |
+| [🐦 Bird Species ID](https://github.com/Devika-es/Bird-species-identification) | 200-class classification with MobileNetV2 transfer learning | `TensorFlow` `Deep Learning` |
+| [🎨 GAN Text-to-Image](https://github.com/Devika-es/GAN-text-to-image-synthesis) | Text descriptions → facial images via GANs | `GANs` `NLP` `Python` |
+| [🏢 HRMS](https://github.com/Devika-es/HRMS) | Enterprise HR management system | `C#` `.NET` `SQL` |
+| [🩺 Diabetes Prediction](https://github.com/Devika-es/Diabetes-Prediction-Model) | R² score up to 0.97 using Random Forest | `Scikit-learn` `Python` |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devika-es&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika-es&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devika-es&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c6af7&icon_color=2dd4bf&text_color=a0a0c0"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika-es&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c6af7&text_color=a0a0c0"/>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devika-es&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devika-es&theme=tokyonight&row=1&no-frame=true" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Devika-es&theme=tokyonight&hide_border=true&background=0a0a0f&ring=7c6af7&fire=2dd4bf&currStreakLabel=a0a0c0"/>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Trophies
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Devika-es)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Devika-es)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devika-es&theme=onestar&no-frame=true&row=1&column=6"/>
+</div>
 
 ---
 
-## 📚 More Projects
+## 🤝 Connect
 
-Check out my repositories for more exciting projects in:
-- **AI & Machine Learning** - Interview Question Generator, Bird Species Classification, GAN Projects
-- **.NET Development** - HRMS, Enterprise Applications
-- **Data Science** - Anomaly Detection, Intrusion Detection, Diabetes Prediction
-- **DSA & Algorithms** - Priority Preemptive Round Robin Scheduler
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devika-es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
 
-Visit my [GitHub Profile](https://github.com/Devika-es) to explore all my projects!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6af7&height=100&section=footer" />
