@@ -9,35 +9,48 @@
 
 ## 🙋‍♀️ About Me
 
-- 🔭 Currently working on **[Your Project Name]**
-- 🌱 Currently learning **[Tech you're learning]**
-- 💬 Ask me about **[Your strengths — e.g. Web Dev, DSA, AI]**
-- 📫 Reach me at **your@email.com**
-- ⚡ Fun fact: **[Something fun about you]**
+- 🔭 Currently working on **AI & ML Projects | .NET Development**
+- 🌱 Currently learning **Advanced Deep Learning & Cloud Technologies**
+- 💬 Ask me about **Machine Learning, AI, Python, C#, .NET, Data Science**
+- 📫 Reach me on **[GitHub](https://github.com/Devika-es)**
+- ⚡ Fun fact: **Passionate about AI-powered solutions and building intelligent systems that solve real-world problems!**
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Project Name 1](https://github.com/Devika-es/repo-name)
-> Short description of what it does
-- Tech used: React, Node.js, MongoDB
+### 🔹 [AI-Based Interview Question Generator](https://github.com/Devika-es/AI-Based-Interview-Question-Generator)
+> Built an AI-powered interview question generator using Flask and Hugging Face's MBZUAI/LaMini-Flan-T5-783M model for real-time, job-specific question creation
+- Tech used: Flask, Python, Hugging Face Transformers, HTML
 
-### 🔹 [Project Name 2](https://github.com/Devika-es/repo-name)
-> Short description of what it does
-- Tech used: Python, Flask, SQL
+### 🔹 [Bird Species Identification](https://github.com/Devika-es/Bird-species-identification)
+> Built a deep learning model using transfer learning with MobileNetV2 to classify 200 bird species from the CUB-200-2011 dataset
+- Tech used: Python, TensorFlow, Deep Learning, Transfer Learning
+
+### 🔹 [GAN Text-to-Image Synthesis](https://github.com/Devika-es/GAN-text-to-image-synthesis)
+> Developed a text-to-image synthesis model that converts descriptive textual data into facial images using Generative Adversarial Networks (GANs)
+- Tech used: Python, GANs, NLP, Deep Learning
+
+### 🔹 [HRMS Project](https://github.com/Devika-es/HRMS)
+> Human Resource Management System built with enterprise-level architecture
+- Tech used: C#, .NET, SQL
+
+### 🔹 [Diabetes Prediction Model](https://github.com/Devika-es/Diabetes-Prediction-Model)
+> Machine learning model for diabetes prediction using algorithms like Random Forest and Polynomial Regression achieving R² scores up to 0.97
+- Tech used: Python, Machine Learning, Data Science
 
 ---
 
@@ -64,6 +77,17 @@
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Devika-es)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Devika-es)
+
+---
+
+## 📚 More Projects
+
+Check out my repositories for more exciting projects in:
+- **AI & Machine Learning** - Interview Question Generator, Bird Species Classification, GAN Projects
+- **.NET Development** - HRMS, Enterprise Applications
+- **Data Science** - Anomaly Detection, Intrusion Detection, Diabetes Prediction
+- **DSA & Algorithms** - Priority Preemptive Round Robin Scheduler
+
+Visit my [GitHub Profile](https://github.com/Devika-es) to explore all my projects!
