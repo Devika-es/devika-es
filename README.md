@@ -1,22 +1,20 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Devika&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20.NET%20Developer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Devika&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20.NET%20Developer&descAlignY=58&descSize=18&descColor=6AD3F7"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI+that+matters+🤖;Deep+Learning+%7C+GANs+%7C+Transfer+Learning;.NET+%7C+C%23+%7C+Enterprise+Architecture;Turning+Data+into+Intelligence+📊;Open+to+Collaboration+%26+Opportunities+🚀" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=620&lines=Building+AI+that+matters+%F0%9F%A4%96;Deep+Learning+%7C+GANs+%7C+Transfer+Learning;.NET+%7C+C%23+%7C+Enterprise+Architecture;Turning+Data+into+Intelligence+%F0%9F%93%8A;Open+to+Collaboration+%26+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views + Followers + Stars -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Devika-es&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Devika-es?label=Followers&style=for-the-badge&color=0e75b6&labelColor=000" alt="followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge" alt="location"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Devika-es&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Devika-es?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6AD3F7?style=for-the-badge&labelColor=0d1117" alt="focus"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Based%20In-India-success?style=for-the-badge&labelColor=0d1117" alt="location"/>
 
 </div>
 
@@ -32,17 +30,15 @@ class Devika:
         self.languages   = ["Python", "C#", "Java", "C++", "SQL"]
         self.frameworks  = ["TensorFlow", "PyTorch", "Flask", ".NET", "Hugging Face"]
         self.focus_areas = ["Generative AI", "Computer Vision", "NLP", "Cloud ML"]
-        self.currently   = "Exploring Advanced Deep Learning & Cloud Technologies ☁️"
-        self.fun_fact    = "I build systems that learn — so I don't have to repeat myself 😄"
+        self.currently   = "Exploring Advanced Deep Learning & Cloud Technologies"
+        self.fun_fact    = "I build systems that learn — so I don't have to repeat myself"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something intelligent together 🚀")
+        print("Thanks for dropping by! Let's build something intelligent together.")
 
 me = Devika()
 me.say_hi()
 ```
-
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 ### 🔭 What I'm up to:
 - 🧠 Working on **AI & ML Projects | .NET Development**
@@ -52,42 +48,44 @@ me.say_hi()
 - 💬 Ask me about **Machine Learning, AI, Python, C#, .NET, Data Science**
 - 📫 Reach me at **[GitHub](https://github.com/Devika-es)**
 
-<br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+**💻 Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI / ML / DL
+**🤖 AI / ML / Deep Learning**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🌐 Frameworks & Tools
+**🌐 Frameworks & Tools**
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### ☁️ Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+**☁️ Cloud & Databases**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -97,7 +95,6 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -113,7 +110,9 @@ me.say_hi()
 - 🎯 Job-role customization
 - 🖥️ Clean, responsive HTML UI
 
-`Flask` `Python` `Hugging Face` `NLP` `HTML`
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +128,8 @@ me.say_hi()
 - 📈 Optimized for accuracy & efficiency
 - 🔄 Data augmentation pipeline
 
-`Python` `TensorFlow` `Deep Learning` `Transfer Learning` `Computer Vision`
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -147,7 +147,8 @@ me.say_hi()
 - 👁️ Facial feature synthesis
 - 🔁 Iterative adversarial training
 
-`Python` `GANs` `NLP` `Deep Learning` `Computer Vision`
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -163,7 +164,8 @@ me.say_hi()
 - 🧹 Feature engineering & EDA
 - 📉 Precision-recall optimization
 
-`Python` `Machine Learning` `Scikit-Learn` `Data Science` `Healthcare AI`
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -181,7 +183,9 @@ me.say_hi()
 - 📋 Employee lifecycle management
 - 🗄️ Optimized SQL data layer
 
-`C#` `.NET` `SQL` `Enterprise Architecture`
+![dotnet](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -192,11 +196,11 @@ me.say_hi()
 **In the pipeline:**
 - 🔍 Intrusion Detection System (ML-based)
 - 📉 Anomaly Detection Research
-- ⚙️ Priority Preemptive Round Robin Scheduler (DSA)
+- ⚙️ Priority Preemptive Round Robin Scheduler
 - ☁️ Cloud-deployed ML inference API
 
-**Interests expanding into:**
-- Large Language Model fine-tuning
+**Expanding into:**
+- LLM fine-tuning (LoRA / QLoRA)
 - MLOps & model deployment
 - Agentic AI systems
 
@@ -205,7 +209,6 @@ me.say_hi()
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
@@ -213,43 +216,43 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Devika-es&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika-es&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Devika-es&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Devika-es&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" height="185"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika-es&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=6AD3F7&text_color=ffffff" height="185"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devika-es&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Devika-es&theme=tokyonight&hide_border=true&background=0d1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" width="680"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devika-es&bg_color=0d1117&color=6AD3F7&line=0e75b6&point=6AD3F7&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Devika-es&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Devika-es&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
 </div>
 
 ---
 
-## 📈 Contribution Metrics
+## 📈 At a Glance
 
 <div align="center">
 
 | 🎯 Metric | 📊 Value |
-|-----------|---------|
+|:----------|:--------|
 | 🔭 Primary Domain | AI & Machine Learning |
 | 🌐 Secondary Domain | .NET Enterprise Development |
 | 🧠 ML Specialty | GANs · Transfer Learning · NLP |
 | 📦 Total Projects | 10+ repositories |
 | 🏆 Best Model Score | R² = 0.97 (Diabetes Prediction) |
-| 📚 Dataset Used | CUB-200-2011 (200 Bird Species) |
-| 🤗 Models Used | LaMini-Flan-T5-783M, MobileNetV2 |
+| 📚 Largest Dataset | CUB-200-2011 (200 Bird Species, 11,788 images) |
+| 🤗 LLMs Used | LaMini-Flan-T5-783M · MobileNetV2 |
 
 </div>
 
@@ -258,19 +261,19 @@ me.say_hi()
 ## 🧠 Current Learning Path
 
 ```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025+
+2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
 │
 ├─ ✅  Deep Learning Fundamentals (CNNs, RNNs, Transformers)
 ├─ ✅  Transfer Learning & Fine-tuning
 ├─ ✅  GANs — Generative Adversarial Networks
 ├─ ✅  NLP Pipelines (Hugging Face, tokenization, embeddings)
-├─ ✅  Enterprise .NET Architecture
+├─ ✅  Enterprise .NET Architecture & Design Patterns
 │
 ├─ 🔄  Advanced LLM Fine-tuning (LoRA, QLoRA)
 ├─ 🔄  Cloud ML Deployment (AWS SageMaker / Azure ML)
 ├─ 🔄  MLOps & CI/CD for ML pipelines
 │
-└─ 🔜  Agentic AI Systems · RAG Architectures · Multimodal Models
+└─ 🔜  Agentic AI · RAG Architectures · Multimodal Models
 ```
 
 ---
@@ -281,15 +284,14 @@ me.say_hi()
 
 [![GitHub](https://img.shields.io/badge/GitHub-Devika--es-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devika-es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Devika-es)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Devika-es)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 <br/>
 
-### 💡 Open to:
-![Collaborations](https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=for-the-badge)
-![Research](https://img.shields.io/badge/Open%20to-Research-blue?style=for-the-badge)
-![Internships](https://img.shields.io/badge/Open%20to-Opportunities-orange?style=for-the-badge)
+![Open to Collaborations](https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=for-the-badge&labelColor=0d1117)
+![Open to Research](https://img.shields.io/badge/Open%20to-Research-6AD3F7?style=for-the-badge&labelColor=0d1117)
+![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-orange?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -303,16 +305,20 @@ me.say_hi()
 
 <br/>
 
-<!-- Snake animation -->
+<!--
+  SNAKE ANIMATION — requires one-time GitHub Actions setup.
+  1. Create repo: github.com/Devika-es/Devika-es (your profile repo)
+  2. Add workflow from: https://github.com/platane/snk
+  3. The SVGs will be generated at the path below automatically.
+-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devika-es/Devika-es/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devika-es/Devika-es/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Devika-es/Devika-es/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 <br/>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=100&section=footer"/>
 
 </div>
